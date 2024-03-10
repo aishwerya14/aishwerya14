@@ -1,4 +1,6 @@
-### Hi there 👋
+
+<h1 align="center">Hi 👋, I'm Aishwerya</h1>
+<h3 align="center">A passionate frontend developer from Arizona</h3>
 
 Greetings, code enthusiasts!  I'm Aishwerya, a full-stack software engineer with a fervent passion for crafting seamless digital experiences.  While I'm currently sharpening my business acumen with a Master's in Information Systems Management at Arizona State University (think masters meets coding maestro ), I'm always energized to leverage my technical expertise on impactful projects.
 
@@ -16,13 +18,11 @@ In essence, I'm a data-driven, cloud-savvy, AI-curious engineer who thrives on c
 Ready to nerd out (responsibly, of course)?
 
 
-LinkedIn: [https://www.linkedin.com/in/aishwerya]
-
-<h1 align="center">Hi 👋, I'm Aishwerya</h1>
-<h3 align="center">A passionate frontend developer from Arizona</h3>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+LinkedIn: [https://www.linkedin.com/in/aishwerya]
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
