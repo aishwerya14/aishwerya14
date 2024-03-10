@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Aishwerya</h1>
-<h3 align="center">A passionate frontend developer from Arizona</h3>
 
-Greetings, code enthusiasts!  I'm Aishwerya, a full-stack software engineer with a fervent passion for crafting seamless digital experiences.  While I'm currently sharpening my business acumen with a Master's in Information Systems Management at Arizona State University (think masters meets coding maestro ), I'm always energized to leverage my technical expertise on impactful projects.
+
+Greetings, code enthusiasts!  I'm  a full-stack software engineer with a fervent passion for crafting seamless digital experiences.  While I'm currently sharpening my business acumen with a Master's in Information Systems Management at Arizona State University (think masters meets coding maestro ), I'm always energized to leverage my technical expertise on impactful projects.
 
 <b>My digital arsenal brims with:</b>
 
