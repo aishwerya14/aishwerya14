@@ -1,31 +1,119 @@
-
-<h1 align="center">Hi 👋, I'm Aishwerya</h1>
-
-
-Greetings, code enthusiasts!  I'm  a frontend software engineer with a fervent passion for crafting seamless digital experiences.  While I'm currently sharpening my business acumen with a Master's in Information Systems Management at Arizona State University (think masters meets coding maestro ), I'm always energized to leverage my technical expertise on impactful projects.
-
-<b>My digital arsenal brims with:</b>
-
-<b>Frontend mastery:</b> I wield JavaScript frameworks like Vue.js and React.js with the precision of a seasoned developer and leverage libraries like Axios and Jest for efficient data fetching and robust testing.<br>
-
-<b>Backend fluency:</b> Node.js is my trusted partner, enabling me to construct robust, scalable APIs that seamlessly bridge the gap between frontend and data. Think efficient data fetching with tools like RESTful APIs and GraphQL, and serverless functions architected for elasticity with tools like AWS Lambda.
-
-<b>Cloud architect with an optimization obsession:</b> Both AWS and Microsoft Azure are my playgrounds, where I orchestrate serverless deployments with Docker containers, ensuring lightning-fast rollouts. My focus lies on building highly scalable, fault-tolerant architectures that can handle even the most demanding workloads. 
-
-<b>Data enthusiast with an AI spark:</b> I'm actively exploring the fascinating world of data science with an AI track. This allows me to incorporate a touch of machine learning magic into my projects, unlocking hidden insights and fueling data-driven decision-making.
-
-In essence, I'm a data-driven, cloud-savvy, AI-curious engineer who thrives on crafting innovative solutions that push the boundaries of the digital landscape.   I'm always one well-structured unit test away from building something extraordinary! 
-
-Ready to nerd out (responsibly, of course)?
-
-
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-LinkedIn: [https://www.linkedin.com/in/aishwerya]
+<!-- Animated wave header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=Hi,%20I'm%20Aishwerya%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Frontend%20%2F%20Full-Stack%20Engineer%20%40%20Adobe&descAlignY=58&descSize=18" alt="header" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a>  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://github.com/aishwerya14">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=640&lines=Building+pixel-perfect+UIs+at+Adobe+%F0%9F%8E%A8;React+%2B+TypeScript+%2B+Next.js+enjoyer+%E2%9A%9B%EF%B8%8F;Teaching+AI+agents+new+tricks+%F0%9F%A4%96;LangGraph+%E2%80%A2+OpenAI+SDK+%E2%80%A2+MCP;console.log('let%5C's+build+something+epic')" alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aishwerya14&label=Visitors&color=7F5AF0&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/aishwerya/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/📍-San%20Jose,%20CA-2CB67D?style=flat" alt="location" />
+</p>
+
+---
+
+## 🧑‍💻 `whoami`
+
+```ts
+const aishwerya = {
+  role: "Senior Frontend / Full-Stack Engineer",
+  currently: "@Adobe → GenStudio & Express Canvas",
+  experience: "6+ years",
+  education: "MS, Information Systems Management @ Arizona State University",
+  frontend: ["React", "TypeScript", "Next.js", "Vue.js"],
+  backend: ["Node.js", "GraphQL", "REST"],
+  aiAgentic: ["LangGraph", "OpenAI SDK", "MCP"],
+  cloud: ["AWS", "Azure", "Docker"],
+  motto: "One well-structured unit test away from something extraordinary",
+};
+```
+
+---
+
+## 🛠️ Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,vue,js,html,css,tailwind&theme=dark" alt="frontend" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,graphql,jest,aws,azure,docker,git,vscode&theme=dark" alt="backend and tools" />
+</p>
+
+---
+
+## 🎮 Choose your adventure
+
+<details>
+<summary><b>🎨 I'm here for the frontend</b></summary>
+<br/>
+
+I build product UIs at scale: component systems, performance, and the details that make an interface feel fast. Right now that's Adobe GenStudio and Adobe Express Canvas.
+
+</details>
+
+<details>
+<summary><b>🤖 Tell me about the AI stuff</b></summary>
+<br/>
+
+I build agentic workflows with **LangGraph**, the **OpenAI SDK**, and the **Model Context Protocol (MCP)**, with a focus on AI features that feel like a natural part of the product, not a bolted-on chat box.
+
+</details>
+
+<details>
+<summary><b>🗺️ Show me the journey</b></summary>
+<br/>
+
+| When | Where | What |
+|---|---|---|
+| 2025 → now | **Adobe** | Senior Frontend / Full-Stack Engineer |
+| 2024 – 2025 | **Arizona State University** | Research Assistant + MS in ISM |
+| 2021 – 2023 | **Cognizant** | Software Engineer |
+| 2019 – 2021 | **Keywordio** | Software Engineer |
+| 2018 – 2019 | **Iron Network** | Software Engineer |
+
+</details>
+
+<details>
+<summary><b>☕ Just want to chat</b></summary>
+<br/>
+
+Always up for talking frontend architecture, AI agents, or anything where the two meet. Say hi on [LinkedIn](https://www.linkedin.com/in/aishwerya/)!
+
+</details>
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aishwerya14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwerya14&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aishwerya14&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aishwerya14&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+---
+
+## 🐍 Watch my contributions get eaten
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aishwerya14/aishwerya14/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/aishwerya14/aishwerya14/output/github-snake.svg" alt="contribution snake" />
+  </picture>
+</p>
+
+<!-- Animated wave footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=120&section=footer" alt="footer" />
+</p>
