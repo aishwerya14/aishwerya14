@@ -1,119 +1,109 @@
-<!-- Animated wave header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=Hi,%20I'm%20Aishwerya%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Frontend%20%2F%20Full-Stack%20Engineer%20%40%20Adobe&descAlignY=58&descSize=18" alt="header" />
-</p>
-
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://github.com/aishwerya14">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=640&lines=Building+pixel-perfect+UIs+at+Adobe+%F0%9F%8E%A8;React+%2B+TypeScript+%2B+Next.js+enjoyer+%E2%9A%9B%EF%B8%8F;Teaching+AI+agents+new+tricks+%F0%9F%A4%96;LangGraph+%E2%80%A2+OpenAI+SDK+%E2%80%A2+MCP;console.log('let%5C's+build+something+epic')" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:4F46E5&height=190&section=header&text=Aishwerya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Frontend%20%2F%20Full-Stack%20Engineer&descAlignY=58&descSize=18" alt="Aishwerya — Senior Frontend / Full-Stack Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aishwerya14&label=Visitors&color=7F5AF0&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/aishwerya/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/📍-San%20Jose,%20CA-2CB67D?style=flat" alt="location" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=4F46E5&center=true&vCenter=true&width=720&lines=Frontend+platforms+built+for+scale;Production+AI+and+agentic+systems;React+%E2%80%A2+TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+GraphQL" alt="Focus areas" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aishwerya/"><img src="https://img.shields.io/badge/LinkedIn-aishwerya-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Experience-6%2B%20years-4F46E5?style=flat" alt="6+ years" />
+  <img src="https://img.shields.io/badge/MS-Information%20Systems%20Management-1F2937?style=flat" alt="MS" />
 </p>
 
 ---
 
-## 🧑‍💻 `whoami`
+## About
 
-```ts
-const aishwerya = {
-  role: "Senior Frontend / Full-Stack Engineer",
-  currently: "@Adobe → GenStudio & Express Canvas",
-  experience: "6+ years",
-  education: "MS, Information Systems Management @ Arizona State University",
-  frontend: ["React", "TypeScript", "Next.js", "Vue.js"],
-  backend: ["Node.js", "GraphQL", "REST"],
-  aiAgentic: ["LangGraph", "OpenAI SDK", "MCP"],
-  cloud: ["AWS", "Azure", "Docker"],
-  motto: "One well-structured unit test away from something extraordinary",
-};
+I'm a senior engineer with 6+ years of experience building frontend platforms and full-stack products. I care about the parts users never notice but always feel: rendering performance, accessible components, predictable state, and API contracts that let teams move independently.
+
+More and more of my work is in **AI and agentic systems**. I design agent workflows with LangGraph, the OpenAI SDK, and the Model Context Protocol (MCP), and I build them to production standards: typed, observable, testable, and integrated into the product experience.
+
+---
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,vue,js,html,css,tailwind&theme=dark" alt="Frontend" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,graphql,jest,aws,azure,docker,git&theme=dark" alt="Backend and infrastructure" />
+</p>
+
+| Area | Technologies |
+|---|---|
+| **Frontend** | React, TypeScript, Next.js, Vue.js, design systems, accessibility, web performance |
+| **Backend & APIs** | Node.js, GraphQL, REST, serverless (AWS Lambda) |
+| **AI / Agentic** | LangGraph, OpenAI SDK, Model Context Protocol (MCP), tool calling, evaluation |
+| **Cloud & Delivery** | AWS, Azure, Docker, CI/CD, Jest |
+
+---
+
+## How I architect AI features
+
+```mermaid
+flowchart LR
+    UI["React / Next.js UI"] --> API["Node.js · GraphQL"]
+    API --> ORCH["LangGraph orchestrator"]
+    ORCH --> LLM["LLM · OpenAI SDK"]
+    ORCH --> MCP["MCP tool servers"]
+    MCP --> DATA[("Internal APIs & data")]
+    ORCH --> OBS["Tracing · evals · guardrails"]
+    ORCH -- "streamed, typed results" --> API
 ```
 
----
-
-## 🛠️ Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,vue,js,html,css,tailwind&theme=dark" alt="frontend" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,graphql,jest,aws,azure,docker,git,vscode&theme=dark" alt="backend and tools" />
-</p>
+The model is just one component. The engineering work lives in the parts around it: typed tool contracts, streaming UI, fallbacks, and evaluation.
 
 ---
 
-## 🎮 Choose your adventure
+## Engineering principles
 
 <details>
-<summary><b>🎨 I'm here for the frontend</b></summary>
+<summary><b>Performance is a product feature</b></summary>
 <br/>
 
-I build product UIs at scale: component systems, performance, and the details that make an interface feel fast. Right now that's Adobe GenStudio and Adobe Express Canvas.
+Profile before optimizing. Most React performance problems come from where state lives, not from missing `useMemo`. I track Core Web Vitals and interaction latency as first-class metrics, with budgets enforced in CI.
 
 </details>
 
 <details>
-<summary><b>🤖 Tell me about the AI stuff</b></summary>
+<summary><b>Treat LLMs as unreliable I/O</b></summary>
 <br/>
 
-I build agentic workflows with **LangGraph**, the **OpenAI SDK**, and the **Model Context Protocol (MCP)**, with a focus on AI features that feel like a natural part of the product, not a bolted-on chat box.
+Every model call gets schema-validated outputs, timeouts, retries, and a deterministic fallback path. Agent behavior is covered by evals and traces, so a regression gets caught before a user sees it.
 
 </details>
 
 <details>
-<summary><b>🗺️ Show me the journey</b></summary>
+<summary><b>Platforms win on adoption, not component count</b></summary>
 <br/>
 
-| When | Where | What |
-|---|---|---|
-| 2025 → now | **Adobe** | Senior Frontend / Full-Stack Engineer |
-| 2024 – 2025 | **Arizona State University** | Research Assistant + MS in ISM |
-| 2021 – 2023 | **Cognizant** | Software Engineer |
-| 2019 – 2021 | **Keywordio** | Software Engineer |
-| 2018 – 2019 | **Iron Network** | Software Engineer |
+A design system or shared frontend platform is only as good as its developer experience: clear APIs, strong typing, documentation, and a migration path. I optimize for the teams who consume it.
 
 </details>
 
 <details>
-<summary><b>☕ Just want to chat</b></summary>
+<summary><b>Contracts before code</b></summary>
 <br/>
 
-Always up for talking frontend architecture, AI agents, or anything where the two meet. Say hi on [LinkedIn](https://www.linkedin.com/in/aishwerya/)!
+A well-designed GraphQL schema or MCP tool interface lets frontend, backend, and AI work proceed in parallel. I invest early in the interface, because it outlives the implementation.
 
 </details>
 
 ---
 
-## 📊 GitHub stats
+## Currently focused on
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aishwerya14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwerya14&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aishwerya14&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aishwerya14&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
+- Agentic workflows that are **reliable in production**, not just impressive in demos
+- Frontend architecture for **streaming, AI-driven interfaces**
+- Scalable component systems and **developer experience**
 
 ---
 
-## 🐍 Watch my contributions get eaten
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aishwerya14/aishwerya14/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/aishwerya14/aishwerya14/output/github-snake.svg" alt="contribution snake" />
-  </picture>
+  Open to conversations about frontend architecture, AI systems, and engineering leadership.<br/>
+  <a href="https://www.linkedin.com/in/aishwerya/"><b>Connect on LinkedIn →</b></a>
 </p>
 
-<!-- Animated wave footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:1F2937&height=110&section=footer" alt="" />
 </p>
